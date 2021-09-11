@@ -32,6 +32,13 @@
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
+<br />
+
+### Me on Github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseeb-xd)](https://github.com/haseeb-xd/github-readme-stats)
+
+
+
 
 
 
