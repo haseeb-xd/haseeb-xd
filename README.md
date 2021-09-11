@@ -37,7 +37,7 @@
 ### Me on Github
 [![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseeb-xd&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/haseeb-xd/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-xd&langs_count=8&theme=tokyonight)](https://github.com/haseeb-xd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-xd&langs_count=8&theme=tokyonight&count_private=true)](https://github.com/haseeb-xd/github-readme-stats)
 
 
 
