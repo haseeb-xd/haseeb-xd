@@ -35,7 +35,7 @@
 <br />
 
 ### Me on Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseeb-xd)](https://github.com/haseeb-xd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseeb-xd&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/haseeb-xd/github-readme-stats)
 
 
 
