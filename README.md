@@ -1,9 +1,6 @@
-# Hello There! 👋
+![carbon (1)](https://user-images.githubusercontent.com/47222685/132943892-1da2715a-f7e7-4326-a0ba-3f37e2e9c0f7.png)
 
 
-<br/>
-
-- 👋 Hi, I’m Haseeb 
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on mobile apps and web projects.
