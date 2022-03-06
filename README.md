@@ -11,9 +11,9 @@
 <br />
 
 
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on mobile apps and web projects.
+- 👀 I’m interested in Micro-services , RESTAPIs
+- 🌱 I’m currently learning Quarkus
+- 💞️ I’m looking to collaborate on web projects.
 
 <br />
 
