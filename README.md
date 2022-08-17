@@ -11,7 +11,7 @@
 
 
 - 👀 I’m interested in Micro-services , RESTAPIs
-- 🌱 I’m currently learning Quarkus
+- 🌱 I’m currently learning JHipster, Microservices and System Design
 - 💞️ I’m looking to collaborate on web projects.
 
 <br />
