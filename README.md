@@ -16,8 +16,8 @@
 
 <br />
 
+![keyboard](https://user-images.githubusercontent.com/47222685/195368593-65a7b501-2460-409a-ae0e-c9ea939b0b51.gif)
 
-![1655448115360](https://user-images.githubusercontent.com/47222685/174241101-a9323ac2-cc10-485f-ac5e-934249f43f2e.gif)
 
 <br />
 
