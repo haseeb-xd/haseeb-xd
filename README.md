@@ -1,4 +1,9 @@
-![carbon (1)](https://user-images.githubusercontent.com/47222685/132943892-1da2715a-f7e7-4326-a0ba-3f37e2e9c0f7.png)
+<br />
+
+![keyboard](https://user-images.githubusercontent.com/47222685/195368593-65a7b501-2460-409a-ae0e-c9ea939b0b51.gif)
+
+
+<br />
 
 [<img align="left" alt="github followers" src="https://img.shields.io/github/followers/haseeb-xd?style=social"/>][github]
 
@@ -14,12 +19,7 @@
 - 🌱 I’m currently learning JHipster, Microservices and System Design
 - 💞️ I’m looking to collaborate on web projects.
 
-<br />
 
-![keyboard](https://user-images.githubusercontent.com/47222685/195368593-65a7b501-2460-409a-ae0e-c9ea939b0b51.gif)
-
-
-<br />
 
 ### Connect with me
 [<img align="left" alt="linkedin account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
