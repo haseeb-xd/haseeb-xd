@@ -59,6 +59,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-xd&langs_count=8&theme=tokyonight&count_private=true)](https://github.com/haseeb-xd/github-readme-stats)
 
 
+<br />
+
+### Donations
+
+Become a patron, by simply clicking on this button (**help me pay API bills ⭐**):
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/checkout/HaseebAnsari/9950942)
 
 
 
