@@ -10,9 +10,8 @@
 <br />
 
 
-- 👀 I’m interested in Micro-services , RESTAPIs
-- 🌱 I’m currently learning JHipster, Microservices and System Design
-- 💞️ I’m looking to collaborate on web projects.
+- 👀 I’m interested in Micro-services , RESTAPIs and Backend Systems
+- 💞️ I’m looking to collaborate on web projects
 
 <br />
 
